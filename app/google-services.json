@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "899987485171",
+    "firebase_url": "https://codebeats-824ea.firebaseio.com",
+    "project_id": "codebeats-824ea",
+    "storage_bucket": "codebeats-824ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899987485171:android:a2e25b0c6ae0f238",
+        "android_client_info": {
+          "package_name": "com.example.harish.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899987485171-oah31tel0alnlbknthsch3ou4bfp5htl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harish.maps",
+            "certificate_hash": "0073f3f9c4060ae1360d7c6f88103fe36fa2c768"
+          }
+        },
+        {
+          "client_id": "899987485171-kemkpn6jg2ke3d0lo2ra4ojj7pbslo6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBesS_LmlY5L7Ru5oMAU5PAE267mncK5l8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899987485171-kemkpn6jg2ke3d0lo2ra4ojj7pbslo6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
