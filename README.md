@@ -2,7 +2,7 @@
  Signal Free Corridor for Ambulances
 
 
-![Alt text](images/architecture.png?raw=true "Title")
+![Alt text](images/architecture.png?raw=true "Architecture")
 
 The various parts in the architecture shown in the image above are explained below.
 
